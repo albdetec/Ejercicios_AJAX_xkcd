@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(227, 234, 239);
+}
+
+div.content {
+    max-width: 73.75rem;
+    margin: 0 auto;
+}
+
+.section {
+    position: relative;
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.input-section {
+    width: 200px;
+    margin: 0 auto;
+}
+
+input {
+    font-size: 15px;
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.image-container {
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 25px;
+
+}
+
+.txt-container {
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 25px;
+
+}
